@@ -9,6 +9,6 @@ entries:
     name: helm-chart-v
     type: application
     urls:
-    - https://github.com/AIBruceYin/Helm-Charts/helm-chart-v-0.1.0.tgz
+    - https://aibruceyin.github.io/Helm-Charts/helm-chart-v-0.1.0.tgz 
     version: 0.1.0
 generated: "2022-09-19T12:30:49.550987763+08:00"
