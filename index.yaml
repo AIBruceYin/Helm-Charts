@@ -3,7 +3,7 @@ entries:
   helm-chart-v:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T13:25:35.144804566+08:00"
+    created: "2022-09-19T13:47:18.952832463+08:00"
     description: A Helm chart for Kubernetes
     digest: 01e6fb5d769b2fcf263097f3a281a214b5b29aae7c62644a3debb40d16fc6488
     name: helm-chart-v
@@ -14,7 +14,7 @@ entries:
   helm-failed:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-19T13:25:35.145213286+08:00"
+    created: "2022-09-19T13:47:18.953268354+08:00"
     description: A Helm chart for Kubernetes
     digest: 35a73a06bde535ef60a7664638b58764e21df392182f19af434c8a5bba507a7a
     name: helm-failed
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://aibruceyin.github.io/Helm-Charts/helm-failed-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-19T13:25:35.144211864+08:00"
+generated: "2022-09-19T13:47:18.952243687+08:00"
